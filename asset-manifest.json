@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/joshuandeleva/covid19-react-track/static/css/main.aaeb224a.chunk.css",
+    "main.js": "/joshuandeleva/covid19-react-track/static/js/main.125c0cff.chunk.js",
+    "main.js.map": "/joshuandeleva/covid19-react-track/static/js/main.125c0cff.chunk.js.map",
+    "runtime-main.js": "/joshuandeleva/covid19-react-track/static/js/runtime-main.603b0829.js",
+    "runtime-main.js.map": "/joshuandeleva/covid19-react-track/static/js/runtime-main.603b0829.js.map",
+    "static/css/2.a4567992.chunk.css": "/joshuandeleva/covid19-react-track/static/css/2.a4567992.chunk.css",
+    "static/js/2.462fda4f.chunk.js": "/joshuandeleva/covid19-react-track/static/js/2.462fda4f.chunk.js",
+    "static/js/2.462fda4f.chunk.js.map": "/joshuandeleva/covid19-react-track/static/js/2.462fda4f.chunk.js.map",
+    "index.html": "/joshuandeleva/covid19-react-track/index.html",
+    "precache-manifest.6984476b992297a72bc79d5aab6015bc.js": "/joshuandeleva/covid19-react-track/precache-manifest.6984476b992297a72bc79d5aab6015bc.js",
+    "service-worker.js": "/joshuandeleva/covid19-react-track/service-worker.js",
+    "static/css/2.a4567992.chunk.css.map": "/joshuandeleva/covid19-react-track/static/css/2.a4567992.chunk.css.map",
+    "static/css/main.aaeb224a.chunk.css.map": "/joshuandeleva/covid19-react-track/static/css/main.aaeb224a.chunk.css.map",
+    "static/js/2.462fda4f.chunk.js.LICENSE.txt": "/joshuandeleva/covid19-react-track/static/js/2.462fda4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603b0829.js",
+    "static/css/2.a4567992.chunk.css",
+    "static/js/2.462fda4f.chunk.js",
+    "static/css/main.aaeb224a.chunk.css",
+    "static/js/main.125c0cff.chunk.js"
+  ]
+}
